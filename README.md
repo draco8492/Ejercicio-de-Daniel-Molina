@@ -12,6 +12,11 @@ Este es un còdigo con diferentes cosas por las cuales unas son para facilitarte
   - [Juego] (#Juego)
   - [Informacion de los archivos] (# Informacion de los archivos)
   - [Actualizacion de paquetes] (# Actualizacion de paquetes)
+    - [Actualizacion de la lista de paquetes disponibles] (# Actualizacion de la lista de paquetes)
+    - [Actualizacion de los paquetes instalados] (# Actualizacion de la lista de paquetes instalados)
+    - [Elimina los archivos inecesarios] (#Elimina los paquetes inecesarios)
+    - [Limpia del cache] (#Limpia del cache)
+    - [Realiza todas las anteriores] (#Todas las anteriores)
 ______________________________________________________________________________________
 
 # Menu principal
