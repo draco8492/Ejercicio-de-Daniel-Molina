@@ -21,6 +21,7 @@ ________________________________________________________________________________
 
 # Menu principal
 He realizado este menu para tener mas organizado cada accion que se va ha realizar.
+![menu](https://github.com/draco8492/Ejercicio-de-Daniel-Molina/blob/main/Imagenes/menu%20principal.png?raw=true)
 
 ## Crear Archivos
 Lo que he realizado es un submenu para que cree un fichero o una carpeta dependiendo lo que ponga el usuario.
