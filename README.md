@@ -68,5 +68,5 @@ Lo que realiza es dar la informacion de los archivos que este en archivo ademas 
 
 ## Actualizacion de paquetes
 Lo que realiza es actualiza la lista de paquetes, actualizar los paquetes instalados, elimina los paquetes inecesarios y sus dependencias y la limpia de cáche de los paquetes.
-![6](https://github.com/draco8492/Ejercicio-de-Daniel-Molina/blob/main/Imagenes/6.png?raw=true)
-![6.1](https://github.com/draco8492/Ejercicio-de-Daniel-Molina/blob/main/Imagenes/6.1.png?raw=true)
+![6](https://github.com/draco8492/Ejercicio-de-Daniel-Molina/blob/main/Imagenes/6.2.png?raw=true)
+![6.1](https://github.com/draco8492/Ejercicio-de-Daniel-Molina/blob/main/Imagenes/6.2.1.png?raw=true)
