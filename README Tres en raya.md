@@ -1,1 +1,1 @@
-EL code del tres en raya esta realizado por RandomGuy
+El code del tres en raya esta realizado por RandomGuy
